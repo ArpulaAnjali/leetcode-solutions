@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0303-range-sum-query-immutable](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -15,4 +16,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
