@@ -7,6 +7,7 @@
 | [0035-search-insert-position](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0303-range-sum-query-immutable](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -25,4 +26,20 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Hash Table
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
