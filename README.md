@@ -8,6 +8,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0845-longest-mountain-in-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Prefix Sum
@@ -50,6 +51,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0845-longest-mountain-in-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
