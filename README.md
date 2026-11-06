@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0740-delete-and-earn) |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0740-delete-and-earn](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
