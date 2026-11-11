@@ -15,6 +15,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3285-find-indices-of-stable-mountains](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 ## Prefix Sum
 |  |
 | ------- |
