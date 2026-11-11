@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0845-longest-mountain-in-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 ## Enumeration
 |  |
