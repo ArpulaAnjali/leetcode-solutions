@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0740-delete-and-earn](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
@@ -76,4 +77,9 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
