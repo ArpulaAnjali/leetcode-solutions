@@ -11,6 +11,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0845-longest-mountain-in-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Prefix Sum
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
