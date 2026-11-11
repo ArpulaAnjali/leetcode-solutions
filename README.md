@@ -16,6 +16,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3467-transform-array-by-parity](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [3467-transform-array-by-parity](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
