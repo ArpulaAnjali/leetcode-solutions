@@ -4,7 +4,7 @@ class Solution {
         int single=0;
         int doubled=0;
         for(int i=0;i<n;i++){
-            if(nums[i]>9){
+            if(nums[i]<10){
                 single=single+nums[i];
             }
             else{
