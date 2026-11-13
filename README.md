@@ -15,6 +15,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3206-alternating-groups-i](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
