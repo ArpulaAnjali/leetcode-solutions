@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0845-longest-mountain-in-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 ## Enumeration
 |  |
@@ -90,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ArpulaAnjali/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Counting
